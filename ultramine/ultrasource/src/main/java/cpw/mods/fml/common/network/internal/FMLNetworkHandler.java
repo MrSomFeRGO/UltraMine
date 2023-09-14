@@ -27,7 +27,7 @@ import net.minecraft.network.NetworkManager;
 import net.minecraft.network.Packet;
 import net.minecraft.server.management.ServerConfigurationManager;
 import net.minecraft.world.World;
-import org.apache.logging.log4j.core.helpers.Integers;
+import org.apache.logging.log4j.core.util.Integers;
 import com.google.common.collect.Lists;
 import com.google.gson.JsonArray;
 import com.google.gson.JsonObject;
